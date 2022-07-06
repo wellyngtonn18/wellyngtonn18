@@ -3,7 +3,7 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas.
 - 🔭 Interessado em front-end development.
 - 📫 Contate-me no email: wellyngton_ds@hotmail.com
-- 😄 Pronouns: ele/dele.
+- 😄 Pronome: ele/dele.
 -->
 <div align="center">
   <a href="https://github.com/wellyngtonn18">
